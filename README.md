@@ -1,6 +1,6 @@
 # EX-1 :  CREATE AN  ACCOUNT IN AWS SET UP A ROOT USER AND AN IAM USER 
 ## AIM :
-       To Create an Account in AWS Set up a Root user and an IAM user.
+To Create an Account in AWS Set up a Root user and an IAM user.
 
 ## ALGORITHM :
 Create a Free AWS Account & Access All Services
@@ -89,6 +89,5 @@ Create a Free AWS Account & Access All Services
 
 ## RESULT :
 
-![image](https://github.com/user-attachments/assets/09ff91ec-6bdd-48c7-9fa8-c9434924df12)
-
+Thus the creation of AWS Root user and IAM user is successfully created.
 
